@@ -1,8 +1,0 @@
-id=gsi-touch-fix
-name=Fix Touchscreen in GSI
-author=MusoZorin
-version=1.0
-versionCode=1
-description=After turning off the screen, touchscreen may not work. This module fixes that.
-minMagisk=20400
-api=5
