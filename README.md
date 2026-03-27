@@ -125,4 +125,4 @@ This software is provided without warranty. Use at your own risk. The developer 
 
 ## License
 
-I don't care bro just give credits when changning my module that's it. Or else.... I still don't care.
+MIT
